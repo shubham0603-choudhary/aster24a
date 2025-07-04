@@ -38,4 +38,8 @@ public class HomePageForGoIBIBO {
 		softly.assertAll();
 		//driver.close();
 	}
+	@Test
+	public void mySecondTestCase() {
+		System.out.println("Am second test case");
+	}
 }
